@@ -1,0 +1,3 @@
+openbabel
+autodock-vina
+gnu-parallel
