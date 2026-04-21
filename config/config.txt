@@ -1,0 +1,9 @@
+receptor = protein.pdbqt
+exhaustiveness  = 8
+center_x = -0.6926
+center_y = 33.4598
+center_z = 61.8708
+size_x = 25
+size_y = 25
+size_z = 25
+cpu = 7
