@@ -1,0 +1,7 @@
+name: docking_env
+channels:
+  - conda-forge
+dependencies:
+  - openbabel
+  - autodock-vina
+  - parallel
